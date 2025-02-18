@@ -54,7 +54,7 @@
 📧 Email: [breno.silva@icen.ufpa.br](mailto:breno.silva@icen.ufpa.br)  
 🌎 ORCID: [0009-0005-9740-2069](https://orcid.org/0009-0005-9740-2069)  
 📷 Instagram: [@_silv7](https://www.instagram.com/_silv7?igsh=MjN6cDBscGpoN2Zi)  
-💼 LinkedIn: [linkedin.com/in/carlos-silva](https://www.linkedin.com/in/carlos-silva)  
+💼 LinkedIn: [linkedin.com/in/carlos-silva]([https://www.linkedin.com/in/carlos-silva](https://www.linkedin.com/in/brenosilva7))  
 
 ---
 
