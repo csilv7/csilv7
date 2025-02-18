@@ -1,4 +1,4 @@
-### Olá, eu sou o Cauã Silva! 👋
+# Olá, eu sou o Cauã Silva! 👋
 
 📊 **Acadêmico de Estatística - UFPA** | 💻 **Entusiasta em Ciência de Dados** | 📈 **Modelagem & Análises**
 
@@ -23,7 +23,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" width="50" height="50"/>
 </p>
 
-🛠 **Ferramentas:** Pandas, NumPy, Seaborn, Matplotlib, SciPy, Scikit-Learn, RStudio, Quarto
+⏩ **Ferramentas:** Pandas, NumPy, Seaborn, Matplotlib, SciPy, Scikit-Learn, RStudio, Quarto
 
 ---
 
@@ -51,7 +51,7 @@
 
 📫 **Entre em contato:**
 
-📧 Email: [seu.email@email.com](mailto:seu.email@email.com)  
+📧 Email: [breno.silva@icen.ufpa.br](mailto:breno.silva@icen.ufpa.br)  
 🌎 ORCID: [0009-0005-9740-2069](https://orcid.org/0009-0005-9740-2069)  
 📷 Instagram: [@_silv7](https://www.instagram.com/_silv7?igsh=MjN6cDBscGpoN2Zi)  
 💼 LinkedIn: [linkedin.com/in/carlos-silva](https://www.linkedin.com/in/carlos-silva)  
