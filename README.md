@@ -1,4 +1,4 @@
-# Olá, eu sou o Cauã Silva! 👋
+# Olá, eu sou o Breno C R Silva! 👋
 
 📊 **Acadêmico de Estatística - UFPA** | 💻 **Entusiasta em Ciência de Dados** | 📈 **Modelagem & Análises**
 
