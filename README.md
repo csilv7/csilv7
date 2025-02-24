@@ -29,9 +29,9 @@
 
 📌 **Projetos em destaque:**
 
-- 📘 [Curso de Python](https://github.com/csilv7/CURSO_PYTHON) → Introdução à linguagem Python com exemplos práticos.
-- 📊 [Análise de Sobrevivência](https://github.com/csilv7/ANALISE_DE_SOBREVIVENCIA) → Modelagem de dados de tempo de sobrevivência.
-- 📈 [Previsão de ICMS](https://github.com/csilv7) → Modelagem de séries temporais para previsão de arrecadação de ICMS.
+- 📘 [Curso de Python](https://github.com/csilv7/CURSO_PYTHON)                      → Curso de Python para Análise de Dados.
+- 📊 [Análise de Sobrevivência](https://github.com/csilv7/ANALISE_DE_SOBREVIVENCIA) → Modelagem de Dados de Sobrevivência.
+- 📈 [Previsão de ICMS](https://github.com/csilv7)                                  → Modelagem de Séries Temporais para Previsão de Arrecadação de ICMS.
 
 ---
 
