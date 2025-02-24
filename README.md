@@ -8,7 +8,7 @@
 - 🎓 Estudante de Estatística na Universidade Federal do Pará (UFPA).
 - 📊 Experiência com Análise Exploratória de Dados, Modelos de Regressão e Séries Temporais.
 - 📈 Interesse em Machine Learning, Inferência Estatística e Modelagem Preditiva.
-- 💡 Trabalhei com previsão do ICMS usando modelos de séries temporais na SEFA-PA.
+- 💡 Experiência de trabalho na SEFA-PA e DETRAN-PA.
 
 ---
 
