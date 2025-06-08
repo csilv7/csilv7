@@ -8,7 +8,7 @@
 - 🎓 Estudante de Estatística na Universidade Federal do Pará (UFPA).
 - 📊 Experiência com Análise Exploratória de Dados, Modelos de Regressão e Séries Temporais.
 - 📈 Interesse em Machine Learning, Inferência Estatística e Modelagem Preditiva.
-- 💡 Experiência de trabalho na SEFA-PA e DETRAN-PA.
+- 💡 Experiência de trabalho na Secretária do Estado da Fazenda do Pará (SEFA-PA) e Departamento Estadual de Trânsito do Pará (DETRAN-PA).
 
 ---
 
