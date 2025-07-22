@@ -31,7 +31,7 @@
 
 - 📘 [Curso de Python](https://github.com/csilv7/PYTHON_COURSE_FOR_DATA_ANALYSIS) → Curso de Python para Análise de Dados.
 - 📊 [Análise de Sobrevivência](https://github.com/csilv7/ANALISE_DE_SOBREVIVENCIA) → Modelagem de Dados de Sobrevivência.
-- 📈 [Previsão de ICMS](https://github.com/csilv7) → Modelagem de Séries Temporais para Previsão de Arrecadação de ICMS.
+- 📈 [Dashboard em R](https://github.com/csilv7/DASHBOARD_IN_R) → Construção de Painéis Interativos.
 
 ---
 
