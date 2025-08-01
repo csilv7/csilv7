@@ -30,7 +30,7 @@
 📌 **Projetos em destaque:**
 
 - 📘 [Curso de Python](https://github.com/csilv7/PYTHON_COURSE_FOR_DATA_ANALYSIS) → Curso de Python para Análise de Dados.
-- 📊 [Análise de Sobrevivência](https://github.com/csilv7/SURVIVAL_ANALYSIS)) → Modelagem de Dados de Sobrevivência.
+- 📊 [Análise de Sobrevivência](https://github.com/csilv7/SURVIVAL_ANALYSIS) → Modelagem de Dados de Sobrevivência.
 - 📈 [Dashboard em R](https://github.com/csilv7/DASHBOARD_IN_R) → Construção de Painéis Interativos.
 
 ---
