@@ -43,9 +43,10 @@
 
 📌 **Linguagens mais utilizadas:**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=csilv7&layout=compact&theme=dracula" alt="Linguagens mais usadas">
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-used-languages.vercel.app/csilv7?theme=dark">
+  <img alt="Most Used Languages'" src="https://github-used-languages.vercel.app/csilv7">
+</picture>
 
 ---
 
