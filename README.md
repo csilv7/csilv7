@@ -37,9 +37,7 @@
 
 📊 **Estatísticas do GitHub:**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=csilv7&show_icons=true&theme=dracula&cache_seconds=86400" alt="Estatísticas do GitHub">
-</p>
+![Breno C R Silva GitHub Estatísticas](https://github-readme-stats.vercel.app/api?username=csilv7&show_icons=true&theme=radical)
 
 📌 **Linguagens mais utilizadas:**
 
