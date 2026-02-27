@@ -37,14 +37,16 @@
 
 📊 **Estatísticas do GitHub:**
 
-![csilv7 GitHub Estatísticas](https://github-readme-stats.vercel.app/api?username=csilv7&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=csilv7&show_icons=true&theme=radical&cache_seconds=86400" alt="Estatísticas do GitHub">
+</p>
 
 📌 **Linguagens mais utilizadas:**
 
-<picture>
+<p align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://github-used-languages.vercel.app/csilv7?theme=dark">
-  <img alt="Most Used Languages'" src="https://github-used-languages.vercel.app/csilv7">
-</picture>
+  <img alt="Linguagens Mais Usadas'" src="https://github-used-languages.vercel.app/csilv7">
+</p>
 
 ---
 
