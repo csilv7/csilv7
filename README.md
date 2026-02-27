@@ -38,7 +38,7 @@
 📊 **Estatísticas do GitHub:**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=csilv7&show_icons=true&theme=dracula" alt="Estatísticas do GitHub">
+  <img src="https://github-readme-stats.vercel.app/api?username=csilv7&show_icons=true&theme=dracula&cache_seconds=86400" alt="Estatísticas do GitHub">
 </p>
 
 📌 **Linguagens mais utilizadas:**
